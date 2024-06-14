@@ -4,4 +4,4 @@
 # edit in PyCharm2
 
 
-print("TMP print")
+print("TMP   print")
